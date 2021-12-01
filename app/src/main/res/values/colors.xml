@@ -1,26 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
 
     <color name="green">#4ae2bf</color>
     <color name="red">#e97677</color>
 
-    <color name="white_0">#f8f8f8</color>
+    <color name="white_0">#FFFFFFFF</color>
     <color name="white_1">#f7f7f7</color>
 
-    <color name="black_0">#23242d</color>
-    <color name="black_1">#292d36</color>
-    <color name="black_2">#272b33</color>
+    <color name="black_0">#FF000000</color>
+    <color name="black_1">#23242d</color>
+    <color name="black_2">#292d36</color>
     <color name="black_3">#2a2d2d</color>
 
-    <color name="main_background_dark">@color/black_0</color>
-    <color name="second_background_dark">@color/black_1</color>
+    <color name="main_background_dark">@color/black_1</color>
     <color name="button_background_dark">@color/black_2</color>
-    <color name="text_color_dark">@color/white</color>
+    <color name="text_color_dark">@color/white_0</color>
 
-    <color name="main_background_light">@color/white</color>
-    <color name="second_background_light">@color/white_0</color>
+    <color name="main_background_light">@color/white_0</color>
     <color name="button_background_light">@color/white_1</color>
     <color name="text_color_light">@color/black_3</color>
 </resources>
