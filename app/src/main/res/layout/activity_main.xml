@@ -47,143 +47,143 @@
         <com.google.android.material.button.MaterialButton
             android:id="@+id/buttonAC"
             style="@style/Theme.CalcApp.Button.Action.Green"
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
             android:text="@string/ac" />
 
         <com.google.android.material.button.MaterialButton
             android:id="@+id/buttonInvert"
             style="@style/Theme.CalcApp.Button.Action.Green"
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
             android:text="@string/invert" />
 
         <com.google.android.material.button.MaterialButton
             android:id="@+id/buttonAbs"
             style="@style/Theme.CalcApp.Button.Action.Green"
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
             android:text="@string/percent" />
 
         <com.google.android.material.button.MaterialButton
             android:id="@+id/buttonDivide"
             style="@style/Theme.CalcApp.Button.Action.Red"
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
             android:text="@string/divide" />
 
         <com.google.android.material.button.MaterialButton
             android:id="@+id/buttonSeven"
             style="@style/Theme.CalcApp.Button.Number"
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
             android:text="@string/num_7" />
 
         <com.google.android.material.button.MaterialButton
             android:id="@+id/buttonEight"
             style="@style/Theme.CalcApp.Button.Number"
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
             android:text="@string/num_8" />
 
         <com.google.android.material.button.MaterialButton
             android:id="@+id/buttonNine"
             style="@style/Theme.CalcApp.Button.Number"
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
             android:text="@string/num_9" />
 
         <com.google.android.material.button.MaterialButton
             android:id="@+id/buttonMultiple"
             style="@style/Theme.CalcApp.Button.Action.Red"
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
             android:text="@string/multiple" />
 
         <com.google.android.material.button.MaterialButton
             android:id="@+id/buttonFour"
             style="@style/Theme.CalcApp.Button.Number"
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
             android:text="@string/num_4" />
 
         <com.google.android.material.button.MaterialButton
             android:id="@+id/buttonFive"
             style="@style/Theme.CalcApp.Button.Number"
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
             android:text="@string/num_5" />
 
         <com.google.android.material.button.MaterialButton
             android:id="@+id/buttonSix"
             style="@style/Theme.CalcApp.Button.Number"
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
             android:text="@string/num_6" />
 
         <com.google.android.material.button.MaterialButton
             android:id="@+id/buttonMinus"
             style="@style/Theme.CalcApp.Button.Action.Red"
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
             android:text="@string/minus" />
 
         <com.google.android.material.button.MaterialButton
             android:id="@+id/buttonOne"
             style="@style/Theme.CalcApp.Button.Number"
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
             android:text="@string/num_1" />
 
         <com.google.android.material.button.MaterialButton
             android:id="@+id/buttonTwo"
             style="@style/Theme.CalcApp.Button.Number"
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
             android:text="@string/num_2" />
 
         <com.google.android.material.button.MaterialButton
             android:id="@+id/buttonThree"
             style="@style/Theme.CalcApp.Button.Number"
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
             android:text="@string/num_3" />
 
         <com.google.android.material.button.MaterialButton
             android:id="@+id/buttonPlus"
             style="@style/Theme.CalcApp.Button.Action.Red"
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
             android:text="@string/plus" />
 
         <com.google.android.material.button.MaterialButton
             android:id="@+id/buttonBack"
             style="@style/Theme.CalcApp.Button.Number"
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
             android:layout_marginBottom="5dp"
             android:text="@string/back" />
 
         <com.google.android.material.button.MaterialButton
             android:id="@+id/buttonZero"
             style="@style/Theme.CalcApp.Button.Number"
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
             android:layout_marginBottom="5dp"
             android:text="@string/num_0" />
 
         <com.google.android.material.button.MaterialButton
             android:id="@+id/buttonDot"
             style="@style/Theme.CalcApp.Button.Number"
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
             android:text="@string/dot" />
 
         <com.google.android.material.button.MaterialButton
             android:id="@+id/buttonEquals"
             style="@style/Theme.CalcApp.Button.Action.Red"
-            android:layout_width="85dp"
-            android:layout_height="85dp"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
             android:layout_marginBottom="5dp"
             android:text="@string/equals" />
 
