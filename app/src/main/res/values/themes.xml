@@ -33,13 +33,13 @@
 
     <style name="Theme.CalcApp.TextView.Big" parent="Widget.MaterialComponents.TextView">
         <item name="fontFamily">@font/nunito</item>
-        <item name="android:textColor">@color/text_color_dark</item>
+        <item name="android:textColor">@color/text_color_light</item>
         <item name="android:textSize">50sp</item>
     </style>
 
     <style name="Theme.CalcApp.TextView.Small" parent="Widget.MaterialComponents.TextView">
         <item name="fontFamily">@font/nunito</item>
-        <item name="android:textColor">@color/text_color_dark</item>
+        <item name="android:textColor">@color/text_color_light</item>
         <item name="android:textSize">20sp</item>
     </style>
 </resources>
